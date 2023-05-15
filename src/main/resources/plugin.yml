@@ -1,0 +1,4 @@
+name: StrengthZombie
+version: '${project.version}'
+main: boosty.strengthzombie.StrengthZombie
+api-version: 1.19
